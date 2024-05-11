@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "comment": "Great app! I love how easy it is to navigate and find the latest news."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "comment": "This app is fantastic! The news updates are always timely and informative."
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael@example.com",
+      "comment": "Amazing app! It's my go-to source for staying informed about current events."
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "email": "emily@example.com",
+      "comment": "Excellent app! The user interface is clean and intuitive, making it a pleasure to use."
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "email": "david@example.com",
+      "comment": "Outstanding app! The news coverage is comprehensive, and I appreciate the variety of topics."
+    }
+  ]
+}
